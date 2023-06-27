@@ -1,1 +1,2 @@
 hi chethan welcome to GIT
+you need to learn GIT
